@@ -1,2 +1,2 @@
 # DmoEkzC#
-This project created for Demo Exaims
+This project created for Demo Exam
